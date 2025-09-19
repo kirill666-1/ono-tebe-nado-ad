@@ -1,1 +1,1 @@
-https://github.com/yandex-praktikum/ono-tebe-nado/fork
+https://github.com/kirill666-1/ono-tebe-nado-ad/tree/main
